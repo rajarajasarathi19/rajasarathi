@@ -1,0 +1,10 @@
+{
+  "name": "Pearson Versant English Assessment Portal",
+  "description": "Official Pearson Versant test instructions, system check, candidate TIN validation, and real-time interactive assessment platform with backend connection.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
